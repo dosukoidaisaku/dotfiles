@@ -16,3 +16,5 @@ set showmatch
 set smartcase
 set nowrapscan
 set visualbell t_vb=
+" アンダーラインを引く(gui)
+highlight CursorLine gui=underline guifg=NONE guibg=NONE
